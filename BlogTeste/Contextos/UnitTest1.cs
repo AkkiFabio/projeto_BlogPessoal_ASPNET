@@ -1,6 +1,6 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace BlogTeste
+namespace BlogTeste.Contextos
 {
     [TestClass]
     public class UnitTest1
